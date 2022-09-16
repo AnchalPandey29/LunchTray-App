@@ -1,28 +1,13 @@
-Lunch Tray - Starter Code
+Lunch Tray - Android App
 ==================================
+It is a small food ordering app made with KOTLIN .
+<h2>Screenshots</h2>
+<img src="https://github.com/AnchalPandey29/LunchTray-App/blob/main/1.png" width="290" height="450">
 
-Starter code for the third independent project for Android Basics in Kotlin
+<img src="https://github.com/AnchalPandey29/LunchTray-App/blob/main/3.png" height="450">
 
-Introduction
-------------
+<img src="https://github.com/AnchalPandey29/LunchTray-App/blob/main/4.png" height="450">
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
 
-Pre-requisites
---------------
-
-- Complete Unit 3 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+Try once! And tell me more,I can't get enough...<br>
+Also, ⭐️ and fork this repository if you wish to give this a new feature !
